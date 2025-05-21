@@ -70,7 +70,7 @@ A tabela abaixo apresenta algumas das principais categorias do Azure e seus resp
 
 ---
 
-## **🎯 Conclusão e Próximos Passos**  
+## **🎯 Conclusão:
 Com este laboratório detalhado, você agora tem um **guia completo** para localizar e gerenciar serviços no **Microsoft Azure** de maneira eficiente e estruturada.  
 
 ### **🔹 O que aprendi:**  
